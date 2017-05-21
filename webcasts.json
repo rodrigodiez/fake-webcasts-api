@@ -2,21 +2,21 @@
     {
       title: "How to party hard yet perform next day",
       presenter: "Dean James",
-      thumbnail: "https://lorempixel.com/640/480?webcast=1"
+      thumbnail: "http://lorempixel.com/640/480?webcast=1"
     },
     {
       title: "Loading images on Android: the painless way",
       presenter: "Tomasz Lasek",
-      thumbnail: "https://lorempixel.com/640/480?webcast=2"
+      thumbnail: "http://lorempixel.com/640/480?webcast=2"
     },
     {
       title: "Innovation days: How to disconnect from the world",
       presenter: "Kimon Moutsakis",
-      thumbnail: "https://lorempixel.com/640/480?webcast=3"
+      thumbnail: "http://lorempixel.com/640/480?webcast=3"
     },
     {
       title: "I just felt like running",
       presenter: "Rodrigo Diez Villamuera",
-      thumbnail: "https://lorempixel.com/640/480?webcast=4"
+      thumbnail: "http://lorempixel.com/640/480?webcast=4"
     }
 ]
