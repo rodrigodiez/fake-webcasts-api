@@ -1,5 +1,4 @@
-{
-  webcasts: [
+[
     {
       title: "How to party hard yet perform next day",
       presenter: "Dean James",
@@ -20,5 +19,4 @@
       presenter: "Rodrigo Diez Villamuera",
       thumbnail: "https://lorempixel.com/640/480?webcast=4"
     }
-  ]
-}
+]
