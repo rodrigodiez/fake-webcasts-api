@@ -2,21 +2,29 @@
     {
       title: "How to party hard yet perform next day",
       presenter: "Dean James",
+      description: "Nullam posuere diam sit amet enim sodales, in ullamcorper orci dictum. Sed eget massa lectus. Etiam tortor lacus, imperdiet a tempor vitae, scelerisque scelerisque enim. Nunc id efficitur elit. Nam eu auctor nisl. Nam rutrum placerat quam, eu commodo enim aliquam eu",
+      start_time: "2017/04/07 12:00:00",
       thumbnail: "http://lorempixel.com/640/480?webcast=1"
     },
     {
       title: "Loading images on Android: the painless way",
       presenter: "Tomasz Lasek",
+      description: "Vestibulum accumsan, magna in suscipit varius, purus sapien malesuada eros, sit amet lacinia risus dolor ac justo. Fusce varius vitae massa ut scelerisque",
+      start_time: "2017/04/08 13:00:00",
       thumbnail: "http://lorempixel.com/640/480?webcast=2"
     },
     {
       title: "Innovation days: How to disconnect from the world",
       presenter: "Kimon Moutsakis",
+      description: "Fusce varius vitae massa ut scelerisque. Cras consectetur leo vel quam porta placerat. In hac habitasse platea dictumst. Vestibulum vestibulum posuere congue",
+      start_time: "2017/04/09 12:00:00",
       thumbnail: "http://lorempixel.com/640/480?webcast=3"
     },
     {
       title: "I just felt like running",
       presenter: "Rodrigo Diez Villamuera",
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a dapibus felis. Donec eu mollis odio. Maecenas porttitor quam et odio facilisis consectetur",
+      start_time: "2017/04/09 13:00:00",
       thumbnail: "http://lorempixel.com/640/480?webcast=4"
     }
 ]
